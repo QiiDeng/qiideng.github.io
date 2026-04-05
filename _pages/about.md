@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Qi Deng, a PhD student in Computer Science at the School of Engineering and Computer Science, [Victoria University of Wellington (VUW)](https://www.wgtn.ac.nz/). My supervisors are [A/Prof. Aaron Chen](https://people.wgtn.ac.nz/Aaron.Chen) and [A/Prof. Yi Mei](https://people.wgtn.ac.nz/Yi.Mei). My research focuses on reinforcement learning, multimodal machine learning, game theory, and LLM-based agents, which are the tangible expressions of my passion for realizing artificial general intelligence. My research vision is to integrate reinforcement learning, multimodal machine learning, and game theory, aiming to develop artificial intelligence agents that perceive their environment, learn from multimodal data, improve from human feedback or preferences, coordinate actions for common goals, and adapt dynamically.
+I am Qi Deng, a PhD student in Computer Science at the School of Engineering and Computer Science, [Victoria University of Wellington (VUW)](https://www.wgtn.ac.nz/). My supervisors are [A/Prof. Aaron Chen](https://people.wgtn.ac.nz/Aaron.Chen) and [Prof. Yi Mei](https://people.wgtn.ac.nz/Yi.Mei). My research focuses on reinforcement learning, multimodal machine learning, game theory, and LLM-based agents, which are the tangible expressions of my passion for realizing artificial general intelligence. My research vision is to integrate reinforcement learning, multimodal machine learning, and game theory, aiming to develop artificial intelligence agents that perceive their environment, learn from multimodal data, improve from human feedback or preferences, coordinate actions for common goals, and adapt dynamically.
 
 Previously, I earned my Master's degree in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and my Bachelor's degree in Software Engineering at [Chengdu University of Information Technology (CUIT)](https://english.cuit.edu.cn/).
 
@@ -71,37 +71,6 @@ Applied Intelligence, 2025
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='papers/AGAT-IL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[Adaptive Graph Attention Networks with Interactive Learning for Attributed Graph Clustering](https://www.sciencedirect.com/science/article/abs/pii/S0952197625015763)
-
-Weiwei Duan, Luping Ji, Lijun Wu, **Qi Deng**, Zhiyuan Li
-
-Engineering Applications of Artificial Intelligence, 2025
-
-</div>
-</div>
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Science</div><img src='papers/BBVA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-Boundary Black-box Adversarial Example Generation Algorithm on Video Recognition Models
-
-Yulin Jing, Lijun Wu, Zhiyuan Li, **Qi Deng**
-
-Computer Science, 2025
-
-</div>
-</div>
-
-
 # 🎖 Honors and Awards
 - *3 times in 2022-2025*: Academic Scholarship of UESTC (including Freshmen Scholarship) [[certificate]](../certificate/UESTC_ Scholarship.png)
 - *May 2025*: Outstanding Graduate of UESTC [[certificate]](../certificate/UESTC_OG.png)
@@ -132,9 +101,14 @@ Computer Science, 2025
 
 ## Teaching Service
 
+- Teaching Assistant for undergraduate course COMP 361 "Design and Analysis of Algorithms" 
+
+  *Victoria University of Wellington, Feb. 2026 - Jun. 2026*
+
 - Teaching Assistant for graduate course "Formal Methods" 
 
   *University of Electronic Science and Technology of China, Sep. 2023 - Jan. 2024*
+
 
 ## Conference Reviewer
 
